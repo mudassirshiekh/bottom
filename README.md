@@ -22,6 +22,7 @@
 </div>
 
 ## Table of contents <!-- omit in toc -->
+## By Mudassir Alam
 
 - [Features](#features)
 - [Support](#support)
